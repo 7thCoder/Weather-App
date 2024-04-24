@@ -2,7 +2,7 @@
 * weather app built in Java springboot and Thymeleaf
 * for now the app can only give the weather forecast for any location (by cityname, or coordinates(latitude and longitude))
 * It can give the forecast for the next 15 days
-* The api was gotten from [Visual crosshair](https://www.visualcrossing.com/)
+* The api was gotten from [Visualcrossing](https://www.visualcrossing.com/)
   
 # How to run
 - Clone the repostiory using `git clone https://github.com/7thCoder/Weather-App.git` in your temrminal
